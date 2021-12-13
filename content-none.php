@@ -7,10 +7,10 @@ $search_enabled = get_theme_mod( 'search_enabled', '1' ); // Get custom meta-val
 ?>
 <article id="post-0" class="post no-results not-found">
 	<header class="entry-header">
-		<h1 class="entry-title"><?php esc_html_e( 'Nothing Found', 'my-theme' ); ?></h1>
+		<h1 class="entry-title"><?php esc_html_e( 'Nothing Found', 'voyageswp_theme_2021' ); ?></h1>
 	</header><!-- /.entry-header -->
 	<div class="entry-content">
-		<p><?php esc_html_e( 'Apologies, but no results were found for the requested archive.', 'my-theme' ); ?></p>
+		<p><?php esc_html_e( 'Apologies, but no results were found for the requested archive.', 'voyageswp_theme_2021' ); ?></p>
 		<?php
 			if ( '1' === $search_enabled ) :
 				get_search_form();

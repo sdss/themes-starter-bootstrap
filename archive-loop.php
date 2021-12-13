@@ -3,7 +3,7 @@
  * The template for displaying the archive loop.
  */
 
-themes_starter_content_nav( 'nav-above' );
+voyageswp_theme_2021_content_nav( 'nav-above' );
 
 if ( have_posts() ) :
 ?>
@@ -26,4 +26,4 @@ endif;
 
 wp_reset_postdata();
 
-themes_starter_content_nav( 'nav-below' );
+voyageswp_theme_2021_content_nav( 'nav-below' );

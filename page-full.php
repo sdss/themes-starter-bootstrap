@@ -15,10 +15,10 @@ the_post();
 		the_content();
 
 		wp_link_pages( array(
-			'before' => '<div class="page-links">' . __( 'Pages:', 'my-theme' ),
+			'before' => '<div class="page-links">' . __( 'Pages:', 'voyageswp_theme_2021' ),
 			'after'  => '</div>',
 		) );
-		edit_post_link( __( 'Edit', 'my-theme' ), '<span class="edit-link">', '</span>' );
+		edit_post_link( __( 'Edit', 'voyageswp_theme_2021' ), '<span class="edit-link">', '</span>' );
 	?>
 </div><!-- /#post-<?php the_ID(); ?> -->
 <?php

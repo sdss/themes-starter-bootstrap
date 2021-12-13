@@ -18,7 +18,7 @@ if ( have_posts() ) :
 	<header class="page-header">
 		<h1 class="page-title author">
 			<?php
-				printf( esc_html__( 'Author Archives: %s', 'my-theme' ), get_the_author() );
+				printf( esc_html__( 'Author Archives: %s', 'voyageswp_theme_2021' ), get_the_author() );
 			?>
 		</h1>
 	</header>

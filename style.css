@@ -1,9 +1,9 @@
 /*!
-Theme Name: them.es Starter Theme (Bootstrap 5)
+Theme Name: Voyages Wordpress 2021
 Theme URI: https://them.es/starter
-Author: them.es
-Author URI: https://them.es
-Description: I'm an Open-source Starter Theme developed and maintained by them.es
+Author: Jordan Raddick
+Author URI: https://voyages.sdss.org
+Description: Theme for SDSS Voyages educational website
 Version: 3.0.3
 Requires at least: 5.0
 Tested up to: 5.8
@@ -11,7 +11,7 @@ Requires PHP: 7.2
 License: GPL version 2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0
 Tags: custom-background, custom-colors, featured-images, flexible-header, microformats, post-formats, rtl-language-support, theme-options, translation-ready, accessibility-ready
-Text Domain: my-theme
+Text Domain: voyageswp_theme_2021
 */
 
 /* Don't overwrite this file. Compile "/assets/main.(less|scss)" to "/assets/css/main.css" */
